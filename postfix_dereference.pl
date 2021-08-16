@@ -4,7 +4,7 @@
 
 # needs v5.20 or higher
 # this script uses perlbrew and v5.27
-# need need for - use feature qw(postderef)
+# no need for - use feature qw(postderef)
 # as would be needed in v5.20
 
 #!/usr/bin/env/perl
